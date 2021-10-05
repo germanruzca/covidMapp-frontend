@@ -7,6 +7,7 @@ import {
 } from "@react-google-maps/api";
 import { formatRelative } from "date-fns";
 import { Main } from "./styled";
+require('dotenv').config()
 
 const Component = ({data}) => {
   const longitud = data.lon;
@@ -17,7 +18,7 @@ const Component = ({data}) => {
   const options = { disableDefaultUI: true };
 
   const { isLoaded, loadError } = useLoadScript({
-    googleMapsApiKey: "AIzaSyBCKpmhjLnqXBYWjsBKKpuh51J9QWMjH04",
+    googleMapsApiKey: "AIzaSyDI1q0KGvEGkuqJDxaFJPbiLvbLLJJZZYE",
     libraries,
   });
 
