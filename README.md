@@ -29,3 +29,30 @@ Esta aplicacion uso los siguientes servicios:
   > Se uso Azure Maps para la visualizacion del mapa en la aplicacion final.
 
   <img src="./img/request.png" width="100%">
+  <img src="./img/map.png" width="100%">
+
+# Anexos
+
+Se implemento el deployment desde VS Code
+
+
+<img src="./img/app.png" width="100%">
+
+Aplicacion en modo escritorio 1*
+
+<img src="./img/ejemplo.png" width="100%">
+
+Carga del deployment a Azure con la extension de App Service de VS Code
+
+<img src="./img/carga.png" width="100%">
+
+Creacion de la app.
+
+
+
+***
+
+1* Al momento de hacer el deploy en Azure App Service, no se implemento Azure Maps, por lo que no contiene ese servicio. **Luego fue implementado**.
+
+
+### [BACKEND](https://github.com/germanruzca/covidmapp)
