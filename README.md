@@ -16,6 +16,8 @@ Esperamos que esta aplicación sea capaz de brindar al usuario una sensación de
 
 Esta aplicación, dividida en dos, una es el backend, utiliza Python con algunas librerías (como Pandas, Sklearn, Flask) donde se incluyó un modelo de aprendizaje automático para predecir y asesorar sobre los riesgos de COVID-19. La parte de la interfaz se desarrolló en JavaScript con la biblioteca React Js, también incluimos un recurso API Map para implementar marcas de ubicación, luego recopilamos y mostramos datos en una PWA para implementar en todos los dispositivos. Por lo tanto, la aplicación Python funciona como una API que usa conjuntos de datos abiertos y procesos para devolver más información de una petición.
 
+Esta aplicacion aparte de mostrar informacion de  la ubicacion que se ha buscado, tiene apartados para encontrar espacios seguros, y centros de vacunacion.
+
 
 # Microsoft Azure
 
