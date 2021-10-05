@@ -21,7 +21,7 @@ Esta aplicación, dividida en dos, una es el backend, utiliza Python con algunas
 
 Esta aplicacion uso los siguientes servicios:
 - App Service
-  > Se uso App Service de Azure para poder almacenar la aplicacion, [Aplicacion Frontend (sin backend)](https://img.shields.io/github/last-commit/RodolfoFerro/luigi-pipeline-talk?style=for-the-badge) 1*
+  > Se uso App Service de Azure para poder almacenar la aplicacion, [Aplicacion Frontend (sin backend)](https://covidmapppwa2.azurewebsites.net/) 1*
 
    <img src="./img/recursos.png" width="100%">
 
