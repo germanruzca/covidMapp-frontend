@@ -33,6 +33,9 @@ Esta aplicacion uso los siguientes servicios:
 
 # Anexos
 
+<img src="./img/ejemapp.png" width="100%">
+Interfaz de la app
+
 Se implemento el deployment desde VS Code
 
 
