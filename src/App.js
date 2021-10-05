@@ -48,7 +48,8 @@ function App() {
   };
   return (
     <div>
-      <Map data={data}/>
+      {/* <Map data={data}/> */}
+      {/* AuzreMap */}
       <Search province={province} setProvince={setProvince} getData={getData} />
       <Card data={data} />
     </div>
